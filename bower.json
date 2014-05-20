@@ -1,0 +1,28 @@
+{
+  "name": "i18n-js",
+  "version": "2.1.2",
+  "homepage": "http://github.com/fnando/i18n-js",
+  "authors": [
+    "Nando Vieira"
+  ],
+  "main": "app/assets/javascripts/i18n.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "i18n",
+    "translation"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "app/assets/javascripts/i18n",
+    "gemfiles",
+    "lib",
+    "spec",
+    "Appraisals",
+    "Gemfile",
+    "*.gemspec",
+    "Rakefile"
+  ]
+}
